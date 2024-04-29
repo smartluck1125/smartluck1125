@@ -17,9 +17,10 @@
 <p align="left"></p>
 <p style="font-size:24px">
   <br>
- <div>Nothing but the best is the main point for me. </div>
- Python Full Stack Developer with 8 years of hands-on experience designing, developing, and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles.
- <div>Whenever you have questions or need me, feel free to contact me <strong> <akiktajohnson@gmail.com> </strong>  anytime and anywhere. Good luck to you.</div>
+ <div>  Nothing but the best is the main point for me. </div>
+ <div>  Python Full Stack Developer with 8 years of hands-on experience designing, developing, and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles.</div>
+ <div>Whenever you have questions or need me, feel free to contact me ~akiktajohnson@gmail.com~  anytime and anywhere.</div>
+ <div>Good luck to you.</div>
 </p>
 <h1 align="center"></h1>
 <p align="left"></p> 

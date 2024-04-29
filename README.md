@@ -14,7 +14,6 @@
 <p align="center"> 
   <a href="#">
     <img src="https://github-profile-trophy.vercel.app/?username=ivankharak&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
-   
   </a> 
 </p>
 <!-- This is test -->

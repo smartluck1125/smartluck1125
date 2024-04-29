@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sm@rtLuck1125, Welcome to My Github!</h1>
 <p align="center">
   <a href="#">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=!%20Nothing%20But%20The%20Best%20!;!%20Full-Stack+Developer%20!;Contact%20:--:%20akiktajohnson@gmail.com%20;Always%20learning%20new%20things.&center=true&width=500&height=50">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=!%20Nothing%20But%20The%20Best%20!;!%20Full-Stack+Developer%20!;Contact%20:-:%20akiktajohnson@gmail.com%20;Always%20learning%20new%20things.&center=true&width=500&height=50">
   </a>
 </p>
 <br>
@@ -13,9 +13,29 @@
 </p>
 <p align="center"> 
   <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=smartluck1125&theme=radical&rows=2&column=5"/>
+    <img src="https://github-profile-trophy.vercel.app/?username=ivankharak&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
+   
   </a> 
 </p>
+<!-- This is test -->
+<h1 align="center"></h1>
+<p align="left"></p> 
+<p><img align="right" width="25%" src="javascript.gif" alt="krismark" /></p>
+<br>
+<h1 align="center"><strong>About me!</strong></h1>
+<!-- This is test -->
+<h1 align="center"></h1>
+<p align="left"></p>
+<p style="font-size:24px">
+  <br>
+ <div>Nothing but the best is the main point for me. </div>
+ Python Full Stack Developer with 8 years of hands-on experience designing, developing, and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles.
+ <div>Whenever you have questions or need me, feel free to contact me <strong> <akiktajohnson@gmail.com> </strong>  anytime and anywhere. Good luck to you.</div>
+</p>
+<h1 align="center"></h1>
+<p align="left"></p> 
+<p><img align="right" width="25%" src="javascript.gif" alt="krismark" /></p>
+<br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
 <table>
   <tr>
@@ -44,21 +64,7 @@
   </tr>
 </table>
 <br>
-<!-- This is test -->
-<h1 align="center"></h1>
-<p align="left"></p> 
-<p><img align="right" width="25%" src="javascript.gif" alt="krismark" /></p>
-<br>
-<h1 align="center"><strong>About me!</strong></h1>
-<!-- This is test -->
-<h1 align="center"></h1>
-<p align="left"></p>
-<p style="font-size:24px">
-  <br>
- <div>Nothing but the best is the main point for me. </div>
- Python Full Stack Developer with 8 years of hands-on experience designing, developing, and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles.
- <div>Whenever you have questions or need me, feel free to contact me <strong> <akiktajohnson@gmail.com> </strong>  anytime and anywhere. Good luck to you.</div>
-</p>
+
 <br>
 <!-- This is test -->
 <h1 align="center"></h1>

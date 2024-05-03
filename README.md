@@ -5,7 +5,7 @@
   </a>
 </p>
 
-
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!-- This is test -->
 <h1 align="center"></h1>
 <p align="left"></p> 
@@ -13,8 +13,7 @@
 <br>
 <h1 align="center"><strong>About me!</strong></h1>
 <!-- This is test -->
-<h1 align="center"></h1>
-<p align="left"></p>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <p style="font-size:24px">
   <br>
  <div>  Nothing but the best is the main point for me. </div>
@@ -55,8 +54,7 @@
 <h1 align="center"></h1>
 <p align="left"></p> 
 <br>
-<h1 align="center"></h1>
-<p align="left"></p> 
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <p><img align="right" width="25%" src="javascript.gif" alt="krismark" /></p>
 <br>
    <h1 align="center"><strong>Github state</strong></h1>

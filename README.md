@@ -25,32 +25,51 @@
 <p align="left"></p> 
 <br>
 <h2 font-weight="bold">𝐒𝐤𝐢𝐥𝐥𝐬</h2>
-<table>
+
+<table align="center">
   <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/python-2-226051.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/django-11-1175036.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/pycharm-1175008.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/typescript-1174965.png" width="100"></td>
-    <td><img src="https://raw.githubusercontent.com/github/explore/ba9de12f88fd08825c51928e91f1678cb5c94b26/topics/solidity/solidity.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/node-js-1174925.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/mysql-18-1174938.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/laravel-226015.png" width="100"></td>
+    <td align="center" width="96">
+      <a href="#macropower-tech">
+        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+      </a>
+      <br>Python
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
+      <br>Django
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+      <br>React
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
+      <br>C++
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+      <br>TypeScript
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" />
+      <br>Webpack
+    </td>
+    <td align="center" width="96">
+        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
+      <br>MySQL
+    </td>
+    <td align="center"  width="96">
+        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <br>Bootstrap
+    </td>
   </tr>
-  <tr>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/javascript-24-1174950.png" width="100"></td>
-    <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/symfony-3-1174988.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/swift-18-1174990.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/rubymine-1175004.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/ionic-4-1175016.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/gradle-2-1174969.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/webpack-1-1174980.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-64/go-76-1175027.png" width="100"></td>
-    <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-57-1175191.png" width="100"></td>
-  </tr>
+  
 </table>
+
 <h1 align="center"></h1>
 <p align="left"></p> 
 <br>

@@ -1,14 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sm@rtLuck1125, Welcome to My Github!</h1>
+<img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <p align="center">
   <a href="#">
    <img src="https://readme-typing-svg.herokuapp.com?lines=!%20Nothing%20But%20The%20Best%20!;!%20Full-Stack+Developer%20!;Contact%20:-:%20akiktajohnson@gmail.com%20;Always%20learning%20new%20things.&center=true&width=500&height=50">
   </a>
 </p>
-
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <!-- This is test -->
-<h1 align="center"></h1>
-<p align="left"></p> 
 <p><img align="right" width="25%" src="javascript.gif" alt="krismark" /></p>
 <br>
 <h1 align="center"><strong>About me!</strong></h1>
@@ -77,6 +75,7 @@
 <p><img align="right" width="25%" src="javascript.gif" alt="krismark" /></p>
 <br>
    <h1 align="center"><strong>Github state</strong></h1>
+   <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <p align="center">
   <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=smartluck1125&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />

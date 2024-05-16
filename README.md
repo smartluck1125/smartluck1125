@@ -2,7 +2,7 @@
 <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 <p align="center">
   <a href="#">
-   <img src="https://readme-typing-svg.herokuapp.com?lines=Contact%20:%20akiktajohnson@gmail.com%20;!%20Nothing%20But%20The%20Best%20!;!%20Full-Stack+Developer%20!;Always%20learning%20new%20things.&center=true&width=500&height=50">
+   <img src="https://readme-typing-svg.herokuapp.com?lines=Contact%20:%20ivan.super.dev@gmail.com%20;!%20Nothing%20But%20The%20Best%20!;!%20Full-Stack+Developer%20!;Always%20learning%20new%20things.&center=true&width=500&height=50">
   </a>
 </p>
 <!-- This is test -->

@@ -74,6 +74,18 @@
 <br>
    <h1 align="center"><strong>Github state</strong></h1>
    <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
+
+_____________________
+<div align="left">  
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=smartluck1125&area=true&theme=react-dark&hide_title=true&hide_border=true&radius=0"
+    />
+</div>
+<div align="center">
+  <img src="https://github-readme-stats-eight-phi-66.vercel.app/api?username=smartluck1125&theme=react&show_icons=true&hide_border=true&border_radius=0&hide_title=true&include_all_commits=true"/>
+  <img src="https://github-readme-stats-eight-phi-66.vercel.app/api/top-langs/?username=smartluck1125&layout=compact&border_radius=0&theme=react&hide_border=true" />
+</div>
+_____________________
 <p align="center">
   <a href="#">
     <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=smartluck1125&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />

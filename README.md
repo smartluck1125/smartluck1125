@@ -16,7 +16,7 @@
  <div>  Nothing but the best is the main point for me. </div>
  <div>  Python Full Stack Developer with 8 years of hands-on experience designing, developing, and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles.</div>
  <div>Whenever you have questions or need me, feel free to contact me anytime and anywhere.</div>
- <div>Good luck to you.</div>
+ <div>Thank you.</div>
 </p>
 <h1 align="center"></h1>
 <p align="left"></p> 

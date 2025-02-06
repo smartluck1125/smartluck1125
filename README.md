@@ -14,7 +14,7 @@
 <p style="font-size:24px">
   <br>
  <div>  Nothing but the best is the main point for me. </div>
- <div>  Python Full Stack Developer with 8 years of hands-on experience designing, developing, and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles.</div>
+ <div>  Blockchain Full Stack Developer with 8 years of hands-on experience designing, developing, and implementing applications and solutions using various technologies and programming languages, seeking to leverage broad development experience and hands-on technical expertise in challenging roles.</div>
  <div>Whenever you have questions or need me, feel free to contact me anytime and anywhere.</div>
  <div>Thank you.</div>
 </p>
@@ -67,27 +67,7 @@
   
 </table>
 
-<h1 align="center"></h1>
-<p align="left"></p> 
-<br>
-<p><img align="right" width="25%" src="javascript.gif" alt="krismark" /></p>
-<br>
-   <h1 align="center"><strong>Github state</strong></h1>
-   <img width="100%" loading="lazy" src="https://github.com/SamirPaulb/SamirPaulb/blob/main/assets/rainbow-superthin.webp" />
 
-
-<p align="center">
-  <a href="#">
-    <img height=200 align="center" src="https://my-stats-43gk.vercel.app/api/top-langs/?username=smartluck1125&hide=html,scss,css,less&langs_count=8&layout=compact&theme=radical&card_width=150" />
-  </a>
-</p>
-<p align="center"> 
-  <a href="#">
-    <img src="https://github-profile-trophy.vercel.app/?username=ivankharak&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest&theme=radical&rows=2&column=3"/>
-  </a> 
-</p>
-<be>
-<br>
 <!-- This is test -->
 <h1 align="center"></h1>
 <p align="left"></p> 
